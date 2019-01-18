@@ -1,0 +1,130 @@
+lasers:
+- {dist_correction: 1.4139490000000001, dist_correction_x: 1.4198446999999998, dist_correction_y: 1.4058145,
+  focal_distance: 10.5, focal_slope: 1.85, horiz_offset_correction: 0.025999999, laser_id: 0,
+  min_intensity: 5, rot_correction: -0.07648247457737148, vert_correction: -0.1261818455292898,
+  vert_offset_correction: 0.21569468}
+- {dist_correction: 1.35, horiz_offset_correction: 0.025999999, laser_id: 1, rot_correction: -0.06981317007977318,
+  vert_correction: -0.11899343298825858, vert_offset_correction: 0.21516994}
+- {dist_correction: 1.37, horiz_offset_correction: -0.025999999, laser_id: 2, rot_correction: 0.04014257279586958,
+  vert_correction: 0.005547034226621036, vert_offset_correction: 0.20617426}
+- {dist_correction: 1.34, horiz_offset_correction: 0.025999999, laser_id: 3, rot_correction: 0.06632251157578452,
+  vert_correction: 0.011486344816195962, vert_offset_correction: 0.20574717}
+- {dist_correction: 1.1, horiz_offset_correction: -0.025999999, laser_id: 4, rot_correction: -0.017453292519943295,
+  vert_correction: -0.1130563237824692, vert_offset_correction: 0.21473721999999998}
+- {dist_correction: 1.33, horiz_offset_correction: 0.025999999, laser_id: 5, rot_correction: 0.0,
+  vert_correction: -0.10712120250669784, vert_offset_correction: 0.21430525}
+- {dist_correction: 1.16, horiz_offset_correction: -0.025999999, laser_id: 6, rot_correction: -0.038397243543875255,
+  vert_correction: -0.14871622434344306, vert_offset_correction: 0.21734608000000002}
+- {dist_correction: 1.24, horiz_offset_correction: 0.025999999, laser_id: 7, rot_correction: -0.010471975861031827,
+  vert_correction: -0.1427659902616787, vert_offset_correction: 0.21690901}
+- {dist_correction: 1.12, horiz_offset_correction: -0.025999999, laser_id: 8, rot_correction: 0.050614550053164814,
+  vert_correction: -0.10118785448544648, vert_offset_correction: 0.21387396}
+- {}
+- {dist_correction: 1.12, horiz_offset_correction: -0.025999999, laser_id: 10, rot_correction: 0.03490658503988659,
+  vert_correction: -0.13681881050610528, vert_offset_correction: 0.21647291}
+- {dist_correction: 1.29, horiz_offset_correction: 0.025999999, laser_id: 11, rot_correction: 0.061086523819801536,
+  vert_correction: -0.13087446865589564, vert_offset_correction: 0.21603773}
+- {dist_correction: 1.19, horiz_offset_correction: -0.025999999, laser_id: 12, rot_correction: -0.09424778135302304,
+  vert_correction: -0.053759863748719855, vert_offset_correction: 0.21044245}
+- {laser_id: 14}
+- {dist_correction: 1.19, horiz_offset_correction: -0.025999999, rot_correction: -0.10995574636630127,
+  vert_correction: -0.08932564393912143, vert_offset_correction: 0.21301321}
+- {dist_correction: 1.29, horiz_offset_correction: 0.025999999, laser_id: 15, rot_correction: -0.08203047135307498,
+  vert_correction: -0.08339636602568574, vert_offset_correction: 0.21258365999999998}
+- {laser_id: 17}
+- {dist_correction: 1.36, horiz_offset_correction: 0.025999999, rot_correction: 0.003490658503988659,
+  vert_correction: -0.03597837777090229, vert_offset_correction: 0.20916126}
+- {dist_correction: 1.17, horiz_offset_correction: -0.025999999, laser_id: 18, rot_correction: -0.04014257279586958,
+  vert_correction: -0.07746801837274138, vert_offset_correction: 0.21215462}
+- {dist_correction: 1.34, horiz_offset_correction: 0.025999999, laser_id: 19, rot_correction: -0.013962634190487561,
+  vert_correction: -0.07154042121137535, vert_offset_correction: 0.21172602000000001}
+- {dist_correction: 1.2, horiz_offset_correction: -0.025999999, laser_id: 20, rot_correction: 0.048869219055841226,
+  vert_correction: -0.03005003884460418, vert_offset_correction: 0.20873450999999998}
+- {dist_correction: 1.35, horiz_offset_correction: 0.025999999, laser_id: 21, rot_correction: 0.06981317007977318,
+  vert_correction: -0.024120757440509986, vert_offset_correction: 0.20830786}
+- {dist_correction: 1.23, horiz_offset_correction: -0.025999999, laser_id: 22, rot_correction: 0.038397243543875255,
+  vert_correction: -0.0656133197235169, vert_offset_correction: 0.21129782}
+- {dist_correction: 1.35, horiz_offset_correction: 0.025999999, laser_id: 23, rot_correction: 0.061086523819801536,
+  vert_correction: -0.059686537630911564, vert_offset_correction: 0.21086998}
+- {dist_correction: 1.1500000000000001, horiz_offset_correction: -0.025999999, laser_id: 24,
+  rot_correction: -0.09599310885968812, vert_correction: 0.017428072512251976, vert_offset_correction: 0.20531982}
+- {dist_correction: 1.3800000000000001, horiz_offset_correction: 0.025999999, laser_id: 25,
+  rot_correction: -0.06981317007977318, vert_correction: 0.023372419598449382, vert_offset_correction: 0.20489222}
+- {dist_correction: 1.33, horiz_offset_correction: -0.025999999, laser_id: 26, rot_correction: -0.10471975511965978,
+  vert_correction: -0.018190332845755736, vert_offset_correction: 0.20788124}
+- {dist_correction: 1.3800000000000001, horiz_offset_correction: 0.025999999, laser_id: 27,
+  rot_correction: -0.08726646259971647, vert_correction: -0.012258547068717858, vert_offset_correction: 0.20745460999999998}
+- {laser_id: 29}
+- {dist_correction: 1.2930000000000001, horiz_offset_correction: 0.025999999, rot_correction: 0.0017453292519943296,
+  vert_correction: 0.0352698281997994, vert_offset_correction: 0.20403601}
+- {dist_correction: 1.37, horiz_offset_correction: -0.025999999, laser_id: 30, rot_correction: -0.03490658503988659,
+  vert_correction: -0.006325202189059172, vert_offset_correction: 0.20702793}
+- {dist_correction: 1.3900000000000001, horiz_offset_correction: 0.025999999, laser_id: 31,
+  rot_correction: -0.012217304589427382, vert_correction: -0.0003900772830029633,
+  vert_offset_correction: 0.20660115999999998}
+- {dist_correction: 1.1, horiz_offset_correction: -0.025999999, laser_id: 32, rot_correction: -0.15707963267948966,
+  vert_correction: -0.3968509756431234, vert_offset_correction: 0.16019151999999998}
+- {dist_correction: 0.92, horiz_offset_correction: 0.025999999, laser_id: 33, rot_correction: -0.10471975511965978,
+  vert_correction: -0.3879181361853211, vert_offset_correction: 0.15954137}
+- {dist_correction: 1.1400000000000001, horiz_offset_correction: -0.025999999, laser_id: 34,
+  rot_correction: 0.061086523819801536, vert_correction: -0.20095595343756567, vert_offset_correction: 0.14680806000000002}
+- {dist_correction: 0.86, horiz_offset_correction: 0.025999999, laser_id: 35, rot_correction: 0.10471975511965978,
+  vert_correction: -0.19202311397976343, vert_offset_correction: 0.14623099}
+- {dist_correction: 1.05, horiz_offset_correction: -0.025999999, laser_id: 36, rot_correction: -0.029670597283903602,
+  vert_correction: -0.37899274928342486, vert_offset_correction: 0.15889649}
+- {dist_correction: 0.7000000000000001, horiz_offset_correction: 0.025999999, laser_id: 37,
+  rot_correction: 0.017453292519943295, vert_correction: -0.3700741691656114, vert_offset_correction: 0.1582566}
+- {dist_correction: 1.1300000000000001, horiz_offset_correction: -0.025999999, laser_id: 38,
+  rot_correction: -0.04363323129985824, vert_correction: -0.43267186886495973, vert_offset_correction: 0.16284933}
+- {dist_correction: 0.89, horiz_offset_correction: 0.025999999, laser_id: 39, rot_correction: -0.0052359879305159136,
+  vert_correction: -0.4237017317210423, vert_offset_correction: 0.16217583000000002}
+- {dist_correction: 0.99, horiz_offset_correction: -0.025999999, laser_id: 40, rot_correction: 0.08203047135307498,
+  vert_correction: -0.36116152316725475, vert_offset_correction: 0.15762167}
+- {dist_correction: 0.76, horiz_offset_correction: 0.025999999, laser_id: 41, rot_correction: 0.14486233140618784,
+  vert_correction: -0.35225425278299416, vert_offset_correction: 0.15699132000000002}
+- {dist_correction: 1.07, horiz_offset_correction: -0.025999999, laser_id: 42, rot_correction: 0.06632251157578452,
+  vert_correction: -0.4147420316460519, vert_offset_correction: 0.1615085}
+- {dist_correction: 0.77, horiz_offset_correction: 0.025999999, laser_id: 43, rot_correction: 0.11868239262627292,
+  vert_correction: -0.40579205305499505, vert_offset_correction: 0.16084715}
+- {dist_correction: 1.17, horiz_offset_correction: -0.025999999, laser_id: 44, rot_correction: -0.15009832265282935,
+  vert_correction: -0.28999200536587916, vert_offset_correction: 0.1526925}
+- {dist_correction: 0.9, horiz_offset_correction: 0.025999999, laser_id: 45, rot_correction: -0.10471975511965978,
+  vert_correction: -0.2811016472220704, vert_offset_correction: 0.15209245}
+- {dist_correction: 1.1300000000000001, horiz_offset_correction: -0.025999999, laser_id: 46,
+  rot_correction: -0.17453292519943295, vert_correction: -0.34335153770808136, vert_offset_correction: 0.15636540000000002}
+- {dist_correction: 0.84, horiz_offset_correction: 0.025999999, laser_id: 47, rot_correction: -0.12217304763960307,
+  vert_correction: -0.33445271471740046, vert_offset_correction: 0.15574372}
+- {dist_correction: 1.1300000000000001, horiz_offset_correction: -0.025999999, laser_id: 48,
+  rot_correction: -0.029670597283903602, vert_correction: -0.2722102069741255, vert_offset_correction: 0.1514954}
+- {dist_correction: 0.9, horiz_offset_correction: 0.025999999, laser_id: 49, rot_correction: 0.017453292519943295,
+  vert_correction: -0.2633170213969286, vert_offset_correction: 0.15090119}
+- {dist_correction: 1.19, horiz_offset_correction: -0.025999999, laser_id: 50, rot_correction: -0.05235987755982989,
+  vert_correction: -0.3255570682259582, vert_offset_correction: 0.15512610000000002}
+- {dist_correction: 0.93, horiz_offset_correction: 0.025999999, laser_id: 51, rot_correction: 0.0,
+  vert_correction: -0.31666386519546874, vert_offset_correction: 0.15451235000000002}
+- {dist_correction: 1.11, horiz_offset_correction: -0.025999999, laser_id: 52, rot_correction: 0.07853981633974483,
+  vert_correction: -0.25442137490548633, vert_offset_correction: 0.15030965999999998}
+- {dist_correction: 0.85, horiz_offset_correction: 0.025999999, laser_id: 53, rot_correction: 0.13962634015954636,
+  vert_correction: -0.24552253446151293, vert_offset_correction: 0.14972065}
+- {dist_correction: 1.18, horiz_offset_correction: -0.061999998, laser_id: 54, rot_correction: 0.061086523819801536,
+  vert_correction: -0.3077724424008163, vert_offset_correction: 0.15390228}
+- {dist_correction: 0.9500000000000001, horiz_offset_correction: 0.025999999, laser_id: 55,
+  rot_correction: 0.11344640137963143, vert_correction: -0.29888206680371504, vert_offset_correction: 0.15329572}
+- {dist_correction: 1.22, horiz_offset_correction: -0.025999999, laser_id: 56, rot_correction: -0.14660765018620667,
+  vert_correction: -0.18308205402118427, vert_offset_correction: 0.14565539}
+- {dist_correction: 0.96, horiz_offset_correction: 0.025999999, laser_id: 57, rot_correction: -0.09948376387301827,
+  vert_correction: -0.17413205274084714, vert_offset_correction: 0.14508112}
+- {dist_correction: 1.23, horiz_offset_correction: -0.025999999, laser_id: 58, rot_correction: -0.16580627893946132,
+  vert_correction: -0.2366198368398926, vert_offset_correction: 0.14913401}
+- {dist_correction: 0.97, horiz_offset_correction: 0.025999999, laser_id: 59, rot_correction: -0.12217304763960307,
+  vert_correction: -0.22771254900233953, vert_offset_correction: 0.14854958000000001}
+- {dist_correction: 1.1400000000000001, horiz_offset_correction: -0.025999999, laser_id: 60,
+  rot_correction: -0.038397243543875255, vert_correction: -0.1651723631378322, vert_offset_correction: 0.14450804}
+- {dist_correction: 0.87, horiz_offset_correction: 0.025999999, laser_id: 61, rot_correction: 0.010471975861031827,
+  vert_correction: -0.15620222075792708, vert_offset_correction: 0.143936}
+- {dist_correction: 1.1300000000000001, horiz_offset_correction: -0.025999999, laser_id: 62,
+  rot_correction: -0.05235987755982989, vert_correction: -0.2187999379105679, vert_offset_correction: 0.14796721}
+- {dist_correction: 0.98, horiz_offset_correction: 0.025999999, laser_id: 63, rot_correction: -0.008726646259971648,
+  vert_correction: -0.2098813228861694, vert_offset_correction: 0.14738676}
+num_lasers: 60
+distance_resolution: 0.002
